@@ -1,3 +1,9 @@
+# Shell en C
+
+Projet de création d'un shell, qui prend en charge les commandes externes et certaines commandes internes.
+
+## Installation et utilisation 
+
 Installer libreadline-dev "sudo apt install libreadline-dev"
 
 Installer lncurse-dev "sudo apt-get install libncurses5-dev"

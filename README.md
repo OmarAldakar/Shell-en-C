@@ -1,7 +1,3 @@
-#Shell écrit en C
-
-##Installation  
-
 Installer libreadline-dev "sudo apt install libreadline-dev"
 Installer lncurse-dev "sudo apt-get install libncurses5-dev"
 

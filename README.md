@@ -1,4 +1,5 @@
 Installer libreadline-dev "sudo apt install libreadline-dev"
+
 Installer lncurse-dev "sudo apt-get install libncurses5-dev"
 
 Pour compiler le projet, il suffit de lancer la commande 'make'.

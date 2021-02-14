@@ -22,3 +22,9 @@ La variable CHEMIN peut-être redéfini, par défaut, il s'agit d'une copie de P
 La fonction complete prend en argument une commande ainsi qu'une expression régulière correspondant au fichier utilisable pour la complétion.
 
 Le manuel des commandes internes se trouve dans manMPSH.man
+
+## Contributeurs 
+
+- Pierre Méjane
+- Tristan François
+- Omar Aldakar
